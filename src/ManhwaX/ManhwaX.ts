@@ -15,7 +15,7 @@ import {
     MangaStream
 } from '../MangaStream'
 
-const DOMAIN = 'https://manhwax.org'
+const DOMAIN = 'https://manhwax.top'
 
 export const ManhwaXInfo: SourceInfo = {
     version: getExportVersion('0.0.0'),
